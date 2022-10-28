@@ -18,7 +18,7 @@ Javascript, HTML, CSS...
 - [@dfifthgod](https://github.com/dfifthgod/)
 
 
-## Other Common Github Profile Sections
+## Other Github Profile Sections
 👩‍💻 I'm currently working on...Portfolio PAGE
 
 🧠 I'm currently learning... Learning HTML, CSS and JAVASCRIPT
