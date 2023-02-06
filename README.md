@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-My name is Nnabugwu Daniel and I'M ASPIRING WEB DEVELOPER.
+My name is Nnabugwu Daniel and I'M a FRONT-END DEVELOPER.
 
 
 ## 🛠 Skills
@@ -21,7 +21,7 @@ Javascript, HTML, CSS...
 ## Other Github Profile Sections
 👩‍💻 I'm currently working on...Portfolio PAGE
 
-🧠 I'm currently learning... Learning HTML, CSS and JAVASCRIPT
+🧠 I'm currently learning... Learning JAVASCRIPT, JQUERY, AND JAVASCRIPT FRAMEWORKS 
 
 📫 How to reach me... danielchuks@gmail.com
 
